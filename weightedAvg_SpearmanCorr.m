@@ -1,4 +1,4 @@
-%% Statistical Analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability (submitted to Ecology)
+%% Statistical Analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability" (submitted to Ecology)
 % MATLAB code for calculating weighted averages and plotting figures
 % Isabel Honda
 % May 2024
