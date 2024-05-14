@@ -22,14 +22,14 @@ c1 = zeros(1, 365/dt);
 z2 = zeros(1, 365/dt);
 c2 = zeros(1, 365/dt);
 z1(1) = 0.1;
-c1(1) = 0.1;
+c1(1) = 0.09;
 z2(1) = 0.1;
-c2(1) = 0.1;
+c2(1) = 0.09;
 
-z_g = 0.03; % zooplankton grazing rate on phytoplankton
-c_g = 0.03; % consumer grazing rate on zooplankton
-c_m = 0.001; % consumer mortality
-c_emerge = 120/dt; % predators appear at day 120
+z_g = 0.08; % zooplankton grazing rate on phytoplankton
+c_g = 0.1; % consumer grazing rate on zooplankton
+c_m = 0.07; % consumer mortality
+c_emerge = 120/dt; % predators appear at day 180
 
 % biomass evolution for type 1 functional response
 % assumes same grazing rate for calanus and top predator
