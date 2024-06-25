@@ -1,4 +1,4 @@
-%% Supplementary Analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability" (submitted to Ecology)
+%% Supplementary Analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability"
 % MATLAB code for the Lotka-Volterra model (Discussion and Figure S10)
 % Adapted from model provided by Greg L. Britten
 % Isabel Honda

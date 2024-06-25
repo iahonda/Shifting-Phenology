@@ -1,4 +1,4 @@
-## Statistical analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability" (submitted to Ecology)
+## Statistical analysis for manuscript "Shifting Phenology as a Key Driver of Shelf Zooplankton Population Variability"
 
 # R Code for generating complete timeseries of Calanus finmarchicus
 # Isabel Honda
